@@ -1,0 +1,31 @@
+{
+  "name": "reckon-codetest-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredomariamilano/reckon-codetest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredomariamilano/reckon-codetest/issues"
+  },
+  "homepage": "https://github.com/alfredomariamilano/reckon-codetest#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "exphbs": "^1.2.0",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
